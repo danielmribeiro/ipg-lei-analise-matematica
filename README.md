@@ -38,21 +38,6 @@ Upon completion of this course, students should be able to:
 - Fundamental Theorem of Calculus; Integration Methods
 - Applications: area calculation
 
-## Assessment Criteria
-- **Continuous Assessment**
-    - The final grade is the arithmetic mean of three written tests.
-    - A minimum score of 4 in each test is required.
-- **Final Exam**
-    - Available during regular, resit, and special exam periods.
-    - A written exam will be conducted.
-- **General Rules**
-    - Students who wish to consider their grade from the Fundamentals of Mathematics course will have their final grade calculated as Max{0.85T + 0.15C, T}, where T is the final grade in this course and C is the Fundamentals of Mathematics grade.
-    - Students scoring above 16 must take an oral exam. If they do not attend, their final grade will be 16.
-    - Exams are closed-book, and calculators and mobile phones are prohibited.
-
-
-
-
 -----
 
  For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
